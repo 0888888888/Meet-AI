@@ -14,8 +14,6 @@ import {
   } from "@/modules/agents/ui/views/agents-view";
 import { loadSearchParams } from "@/modules/agents/params";
 
-
-
 interface Props {
   searchParams: Promise<SearchParams>;
 }
